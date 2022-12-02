@@ -18,4 +18,5 @@ cd visualizeNetwork
 ```
 MainSample
 ```
-<img src= "https://user-images.githubusercontent.com/91073921/204333483-c333866b-5bc9-4b65-8fa2-300e3461d6b8.png" width=320px>
+
+<img src= "https://user-images.githubusercontent.com/91073921/205224058-fb084b7f-242a-4d5a-b292-0010474fa83f.png" width=320px>
