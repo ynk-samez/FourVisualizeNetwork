@@ -12,7 +12,7 @@ git clone https://github.com/ynk-samez/FourVisualizeNetwrok.git
 ```
 **Matlabのコマンドラインで以下を実行してください。**
 ```
-cd visualizeNetwork
+cd FourVisualizeNetwork
 ```
 - 正しく表示されるかのテスト
 ```
