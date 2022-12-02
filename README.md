@@ -1,15 +1,16 @@
 # はじめに
-因果的結合を可視化するためのものです。今後改良していきます.
+4つの領野間の結合を表すのに特化したvisualizeNetworkです
+今後改良していきます.
 
 各領野間の因果関係を示した行列Adjを引数として実行します.
 
 # インストール
-**Matlabのコマンドラインで以下を実行してください。**
-
+**ターミナルで以下を実行してください**
 - リモートにクローンする。
 ```
 git clone https://github.com/ynk-samez/visualizeNetwrok.git
 ```
+**Matlabのコマンドラインで以下を実行してください。**
 ```
 cd visualizeNetwork
 ```
