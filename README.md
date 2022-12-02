@@ -8,7 +8,7 @@
 **ターミナルで以下を実行してください**
 - リモートにクローンする。
 ```
-git clone https://github.com/ynk-samez/visualizeNetwrok.git
+git clone https://github.com/ynk-samez/FourVisualizeNetwrok.git
 ```
 **Matlabのコマンドラインで以下を実行してください。**
 ```
